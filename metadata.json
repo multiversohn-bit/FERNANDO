@@ -1,0 +1,6 @@
+{
+  "name": "Movil House Star",
+  "description": "Gestión integral del ingreso de teléfonos móviles para reparación, registro de estado con fotos, datos de contacto del cliente y seguimiento por técnico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
